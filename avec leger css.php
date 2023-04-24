@@ -5,65 +5,65 @@
 	<meta charset="UTF-8">
 	<style>
 		body {
-  font-family: Arial, sans-serif;
-  text-align: center;
-}
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
 
-form {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 20px;
-}
+    form {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
 
-label {
-  display: block;
-  margin-right: 10px;
-}
+    label {
+      display: block;
+      margin-right: 10px;
+    }
 
-input[type="text"] {
-  width: 300px;
-  padding: 5px;
-  border-radius: 5px;
-  border: 1px solid #ccc;
-  font-size: 16px;
-}
+    input[type="text"] {
+      width: 300px;
+      padding: 5px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+      font-size: 16px;
+    }
 
-input[type="submit"] {
-  padding: 5px 20px;
-  background-color: #4CAF50;
-  border: none;
-  color: #fff;
-  border-radius: 5px;
-  cursor: pointer;
-  font-size: 16px;
-}
+    input[type="submit"] {
+      padding: 5px 20px;
+      background-color: #4CAF50;
+      border: none;
+      color: #fff;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
 
-h1 {
-  margin-top: 50px;
-}
+    h1 {
+      margin-top: 50px;
+    }
 
-h2 {
-  margin-top: 20px;
-}
+    h2 {
+      margin-top: 20px;
+    }
 
-ul {
-  list-style: none;
-  padding: 0;
-}
+    ul {
+      list-style: none;
+      padding: 0;
+    }
 
-li {
-  margin-bottom: 10px;
-  display: flex;
-  align-items: center;
-}
+    li {
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+    }
 
-img {
-  margin-right: 10px;
-  width: 50px;
-  height: 50px;
-  border-radius: 5px;
-  border: 1px solid #ccc;
-}
+    img {
+      margin-right: 10px;
+      width: 50px;
+      height: 50px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+    }
 
 	</style>
 </head>
